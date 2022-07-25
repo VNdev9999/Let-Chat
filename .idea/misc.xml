@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.169" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/bg_button.xml" value="0.169" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/bg_chat_input.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/bg_content_bottom.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/bg_content_top.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/bg_input.xml" value="0.169" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/bg_received_message.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/bg_sent_massage.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/bg_user.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/ic_add.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/ic_back.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/ic_info.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.169" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/ic_sending.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/drawable/ic_sign_out.xml" value="0.124" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/layout/activity_sign_up.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/layout/activity_users.xml" value="0.25" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/layout/item_container_receiverd_message.xml" value="0.25" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/layout/item_container_sent_message.xml" value="0.25" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/layout/item_recent_conversion.xml" value="0.25" />
+        <entry key="..\:/Users/yeuai/AndroidStudioProjects/LetChat/app/src/main/res/layout/item_user.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
